@@ -1,0 +1,2 @@
+'*.mp4' filter=lfs diff=lfs merge=lfs -text
+Group5_MiningClimateData_Part6_Video.mp4 filter=lfs diff=lfs merge=lfs -text
